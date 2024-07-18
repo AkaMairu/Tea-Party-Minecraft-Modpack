@@ -12,5 +12,5 @@
 </div>
 
 ## Guides
-### [Headers](#headers)  
+### [How to install the modpack](https://github.com/AkaMairu/Tea-Party-Minecraft-Modpack/blob/main/install.md)  
 
