@@ -11,6 +11,6 @@
   <img src="https://github.com/user-attachments/assets/85769d07-7b76-424c-9f54-bf1edcfe9f4a" width="auto" height="auto" border="10"/>
 </div>
 
-## Guides
-### [How to install the modpack](https://github.com/AkaMairu/Tea-Party-Minecraft-Modpack/blob/main/install.md)  
-
+## Links
+### [Install Guide](https://github.com/AkaMairu/Tea-Party-Minecraft-Modpack/blob/main/install.md)  
+### [Increase Performance Guide](https://rpg.prominence.wiki/performance-guide)  
