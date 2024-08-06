@@ -28,8 +28,8 @@
 ### Import the modpack to the launcher.
 ![4](https://github.com/user-attachments/assets/f633458c-ab67-45e6-98af-053519da5cca)
 
-### Press Edit, then go to Settings, then uncheck "Java installation" and "Java arguments", then set the amount of ram you are using on "Maximum Memory Allocation", the minimum is 5000.
-![5](https://github.com/user-attachments/assets/01426559-08f4-42d2-bdc4-2966b3acc5e3)
+### Press Edit, then go to Settings, then uncheck "Java installation" and "Java arguments" if checked 
 
+### Set the amount of ram you are using on "Minumum Memory Allocation" "Maximum Memory Allocation", put both at 6000 (minimum) or 8000 (recommended)
 
 # You are ready to launch the game!
