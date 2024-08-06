@@ -5,12 +5,13 @@
 </div>
 
 ### If you haven't installed Java 17 yet, get it [here!](https://adoptium.net/temurin/releases/?version=17&os=windows&package=jre)
-### Download the modpack from [here!](https://github.com/AkaMairu/Tea-Party-Minecraft-Modpack/releases/tag/release)
+### Download the modpack from [here!](https://github.com/AkaMairu/Tea-Party-Minecraft-Modpack/releases/tag/v3)
 
 # Setting up Prism Launcher
 
-#### Before we start, you need to get the latest cracked version of Prism Launcher in order to play this modpack.
+#### Before we start, you need to get the latest version of Prism Launcher in order to play this modpack.
 ### Download it from here: [Prism Launcher Cracked v8.4.1](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/v8.4.1/PrismLauncher-Windows-MinGW-w64-Portable-v8.4.1.zip)
+### Non-Cracked Version: https://prismlauncher.org/
 
 ---
 
