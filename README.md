@@ -14,8 +14,6 @@
 
 ### Not sure how to install the modpack? > [Install Guide](https://github.com/AkaMairu/Tea-Party-Minecraft-Modpack/blob/main/install.md)
 
-### Already got the modpack but you wanna update to the new version? > [Update Guide](https://github.com/AkaMairu/Tea-Party-Minecraft-Modpack/blob/main/update.md)
-
 ### Game stuttering? PC doesn't have enough ram? Check these! 
 ### > [Increase Performance Guide](https://rpg.prominence.wiki/performance-guide) 
 ### > [The Ultimate Updated Guide on Increasing FPS and Reducing Lag](https://www.reddit.com/r/feedthebeast/comments/wy2s4b/the_ultimate_updated_guide_on_increasing_fps_and/)
